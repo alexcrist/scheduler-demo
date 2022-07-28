@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/scheduler-demo/static/css/main.96c59756.css",
-    "main.js": "/scheduler-demo/static/js/main.d3f43910.js",
-    "static/js/800.f1f9c98c.chunk.js": "/scheduler-demo/static/js/800.f1f9c98c.chunk.js",
+    "main.css": "/scheduler-demo/static/css/main.73dff503.css",
+    "main.js": "/scheduler-demo/static/js/main.0cc42d41.js",
+    "static/js/800.88c02bda.chunk.js": "/scheduler-demo/static/js/800.88c02bda.chunk.js",
     "static/js/94.f84c3752.chunk.js": "/scheduler-demo/static/js/94.f84c3752.chunk.js",
     "index.html": "/scheduler-demo/index.html",
-    "main.96c59756.css.map": "/scheduler-demo/static/css/main.96c59756.css.map",
-    "main.d3f43910.js.map": "/scheduler-demo/static/js/main.d3f43910.js.map",
-    "800.f1f9c98c.chunk.js.map": "/scheduler-demo/static/js/800.f1f9c98c.chunk.js.map",
+    "main.73dff503.css.map": "/scheduler-demo/static/css/main.73dff503.css.map",
+    "main.0cc42d41.js.map": "/scheduler-demo/static/js/main.0cc42d41.js.map",
+    "800.88c02bda.chunk.js.map": "/scheduler-demo/static/js/800.88c02bda.chunk.js.map",
     "94.f84c3752.chunk.js.map": "/scheduler-demo/static/js/94.f84c3752.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96c59756.css",
-    "static/js/main.d3f43910.js"
+    "static/css/main.73dff503.css",
+    "static/js/main.0cc42d41.js"
   ]
 }
