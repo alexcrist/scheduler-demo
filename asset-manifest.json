@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/scheduler-demo/static/css/main.73dff503.css",
-    "main.js": "/scheduler-demo/static/js/main.0cc42d41.js",
-    "static/js/800.88c02bda.chunk.js": "/scheduler-demo/static/js/800.88c02bda.chunk.js",
-    "static/js/94.f84c3752.chunk.js": "/scheduler-demo/static/js/94.f84c3752.chunk.js",
+    "main.css": "/scheduler-demo/static/css/main.d7ff5840.css",
+    "main.js": "/scheduler-demo/static/js/main.4727ab91.js",
+    "static/js/289.3b5516bb.chunk.js": "/scheduler-demo/static/js/289.3b5516bb.chunk.js",
+    "static/js/343.5a9093b7.chunk.js": "/scheduler-demo/static/js/343.5a9093b7.chunk.js",
+    "static/js/10.90da5863.chunk.js": "/scheduler-demo/static/js/10.90da5863.chunk.js",
     "index.html": "/scheduler-demo/index.html",
-    "main.73dff503.css.map": "/scheduler-demo/static/css/main.73dff503.css.map",
-    "main.0cc42d41.js.map": "/scheduler-demo/static/js/main.0cc42d41.js.map",
-    "800.88c02bda.chunk.js.map": "/scheduler-demo/static/js/800.88c02bda.chunk.js.map",
-    "94.f84c3752.chunk.js.map": "/scheduler-demo/static/js/94.f84c3752.chunk.js.map"
+    "main.d7ff5840.css.map": "/scheduler-demo/static/css/main.d7ff5840.css.map",
+    "main.4727ab91.js.map": "/scheduler-demo/static/js/main.4727ab91.js.map",
+    "289.3b5516bb.chunk.js.map": "/scheduler-demo/static/js/289.3b5516bb.chunk.js.map",
+    "343.5a9093b7.chunk.js.map": "/scheduler-demo/static/js/343.5a9093b7.chunk.js.map",
+    "10.90da5863.chunk.js.map": "/scheduler-demo/static/js/10.90da5863.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73dff503.css",
-    "static/js/main.0cc42d41.js"
+    "static/css/main.d7ff5840.css",
+    "static/js/main.4727ab91.js"
   ]
 }
